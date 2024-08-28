@@ -1,1 +1,1 @@
-![Final Report](https://github.com/A-C-Sai/HR-Data-Excel-Mini-Case-Study/blob/main/HR-data-final-report.jpg)
+![Final Report](https://github.com/A-C-Sai/human-resources-excel-mini-case-study/blob/main/HR-data-final-report.jpg)
